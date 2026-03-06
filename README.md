@@ -1,5 +1,5 @@
 # Manual da API de Produtos
-
+# Antes de tudo, extraia o node_modules.zip na pasta que você está trabalhando.
 ## 1. Introdução
 
 A API de Produtos foi desenvolvida para permitir o gerenciamento de produtos por meio de requisições HTTP.
@@ -291,3 +291,4 @@ Este projeto demonstra conceitos importantes como:
 * criação de rotas HTTP
 * retorno de dados em formato JSON
 * documentação de APIs com Swagger
+
